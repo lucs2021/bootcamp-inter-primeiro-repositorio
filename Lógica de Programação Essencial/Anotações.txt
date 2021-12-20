@@ -1,0 +1,9 @@
+Logica de Programação Essencial
+
+Metacoginição-> "Pensar como você pensa";
+
+Algoritimo-> "é uma sequência de fatos para resolver um problema";
+
+-Site para progamador iniciante https://studio.code.org/s/mc/stage/1/puzzle/1 ;
+
+-Pseudocódigo->"Forma genérica de escrever um algoritimo utilizando uma linguagem mais simples";
